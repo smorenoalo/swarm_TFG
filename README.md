@@ -192,6 +192,6 @@ limitations under the License.
 
 ## Autor
 
-Samuel Moreno Alonso
-Grado en Ingenieria de Tecnologías y Servicios de Telecomunicación
+Samuel Moreno Alonso, 
+Grado en Ingenieria de Tecnologías y Servicios de Telecomunicación, UOC
 
